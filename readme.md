@@ -18,4 +18,6 @@ alias matrix='python3 path/to/file'
 source ~/.zshrc
 ```
 
+## Licence
+[Apache]
 
