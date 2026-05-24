@@ -19,5 +19,5 @@ source ~/.zshrc
 ```
 
 ## Licence
-[Apache]
+### Apache
 
