@@ -1,9 +1,15 @@
-# No external dependencies required
-# Uses Python standard library modules:
-# - tkinter
-# - random
-# - os
-Ubuntu/Debian:
-sudo apt install python3-tk
-Fedora:
-sudo dnf install python3-tkinter
+tkinter
+time 
+whois
+subprocess
+paramiko
+requests
+socket
+hashlib
+random
+os 
+curses
+platform
+psutil
+readline
+shutil
